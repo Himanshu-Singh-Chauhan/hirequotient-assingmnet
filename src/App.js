@@ -312,8 +312,8 @@ function App() {
                 >
                   <option value="Member">Member</option>
                   <option value="Admin">Admin</option>
-                  <option value="Admin">Moderator</option>
-                  <option value="Admin">Guest</option>
+                  <option value="Moderator">Moderator</option>
+                  <option value="Guest">Guest</option>
                 </Form.Control>
               </InputGroup>
             </Form.Group>
